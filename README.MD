@@ -4,9 +4,9 @@
 
 ## How to install
 
-1. Extract sims-speedcamera
+1. Extract sims-speedcam
 
-2. Place 'ensure sims-speedcamera' into your server cfg
+2. Place 'ensure sims-speedcam' into your server cfg
 
 3. Re/Start your server
 
